@@ -1,9 +1,9 @@
-刷新影视各版本commit号  时间 >>20240825-21:10:25
-OK-手机正式版:f3eb31912e4e281aeaf83a119faf85855a522979:2.4.8
+刷新影视各版本commit号  时间 >>20240825-21:47:38
+OK-手机正式版:3c7cc792f9e9bc2c1e28febad5eadf4fec6195ab:2.4.9
 OK-手机内测版:1a4962430468d0cc97d5616e0acf5eebfe98f634:0813
-OK-5.1+电视正式版:f3eb31912e4e281aeaf83a119faf85855a522979:2.4.8
+OK-5.1+电视正式版:3c7cc792f9e9bc2c1e28febad5eadf4fec6195ab:2.4.9
 OK-5.1+电视内测版:1a4962430468d0cc97d5616e0acf5eebfe98f634:0813
-OK-4.1-4.4电视版:f3eb31912e4e281aeaf83a119faf85855a522979:2.4.8
+OK-4.1-4.4电视版:3c7cc792f9e9bc2c1e28febad5eadf4fec6195ab:2.4.9
 
 FM-手机正式版:62b4f5df2fe128564972e0383e05dd82580af122:2.5.4
 FM-手机内测版:b2fcad66b520053d194c71473c97194fe9dac23e:
