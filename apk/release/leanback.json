@@ -1,5 +1,5 @@
 {
-  "code": "250",
-  "name": "2.5.0",
-  "desc": "* [共通] \n* 修复EXO字幕bug \n* 支持type4 action方法"
+  "code": "251",
+  "name": "2.5.1",
+  "desc": "* [共通] \n* 修复 mkv 字幕编码"
 }
