@@ -21,6 +21,18 @@
                 "version": "OK-2.5.0"
             },
             {
+                "name": "手機pro",
+                "url": "ok-pro-mb.url/mobile-pro.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
+                "version": "OK-ok-pro-mb.v"
+            },
+            {
+                "name": "電視pro",
+                "url": "ok-pro-tv.url/leanback-pro.apk",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
+                "version": "OK-ok-pro-tv.v"
+            },
+            {
                 "name": "手機-py32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/2947e7627b1b84aad265ec7500b20b45a9d19692/apk/release/mobile-python-armeabi_v7a.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
