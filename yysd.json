@@ -22,15 +22,15 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/e811955cf27c417f17923ad27b7fb6737933e3cb/apk/pro/mobile-pro.apk",
+                "url": "ok-pro-mb.url/mobile-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.8.5-pro"
+                "version": "OK-ok-pro-mb.v"
             },
             {
                 "name": "電視pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/e811955cf27c417f17923ad27b7fb6737933e3cb/apk/pro/leanback-pro.apk",
+                "url": "ok-pro-tv.url/leanback-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.8.5-pro"
+                "version": "OK-ok-pro-tv.v"
             },
             {
                 "name": "手機-py32",
@@ -99,15 +99,15 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/e811955cf27c417f17923ad27b7fb6737933e3cb/apk/pro/mobile-pro.apk",
+                "url": "ok-pro-mb.url/mobile-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.8.5-pro"
+                "version": "OK-ok-pro-mb.v"
             },
             {
                 "name": "電視pro",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/e811955cf27c417f17923ad27b7fb6737933e3cb/apk/pro/leanback-pro.apk",
+                "url": "ok-pro-tv.url/leanback-pro.apk",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.8.5-pro"
+                "version": "OK-ok-pro-tv.v"
             },
             {
                 "name": "電視-java32",
