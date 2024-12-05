@@ -1,0 +1,12 @@
+{
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+    "sites": [
+        {
+            "key": "Market-ly",
+            "name": "應用商店-github代理",
+            "type": 3,
+            "api": "csp_Market",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/app/yysd.json"
+        } 
+    ]
+}
