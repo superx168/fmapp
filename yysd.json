@@ -308,13 +308,13 @@
                 "name": "v7-32",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": "肥羊直播"
+                "version": "allinone"
             },
             {
                 "name": "v8-64",
                 "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": "肥羊"
+                "version": "allinone"
             }
         ]
     }
