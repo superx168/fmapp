@@ -1,11 +1,8 @@
-2.8.9
+2.9.0
+
 * [EXO]
-* 升级至1.5.0
 * 修复 AC4 声道对应
 * 修复 DASH 播放问题
-* [LIVE]
-* 继续支持 Xtream Code
-* 修复 epg 判断
-* 修复 m3u 判断
-* m3u 支持多组 epg 地址
- 
+* 优化 HLS 播放
+* [直播]
+* 支持 Xtream Code 
