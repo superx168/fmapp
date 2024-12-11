@@ -300,6 +300,23 @@
                 "version": "OK-2.5.0"
             }
         ]
+    },
+    {
+        "name": "肥羊",
+        "list": [
+            {
+                "name": "v7-32",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone",
+                "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
+                "version": "肥羊直播"
+            },
+            {
+                "name": "v8-64",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone",
+                "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
+                "version": "肥羊"
+            }
+        ]
     }
 ]
 
