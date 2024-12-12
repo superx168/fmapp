@@ -242,51 +242,51 @@
             },
             {
                 "name": "電視-java32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/leanback-java-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/leanback-java-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "電視-java64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/leanback-java-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/leanback-java-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "電視-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/leanback-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/leanback-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "電視-py64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/leanback-python-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/leanback-python-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "手機-java32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/mobile-java-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/mobile-java-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "手機-java64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/mobile-java-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/mobile-java-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "手機-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/mobile-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/mobile-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             },
             {
                 "name": "手機-py64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/9403d17ab98dd7461001d1ed7e194c2858b393c1/apk/dev/mobile-python-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/153cd0690d44882e6b7f356514a332d802a2699b/apk/dev/mobile-python-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-2.6.6"
+                "version": "FM-1212"
             }
         ]
     },
