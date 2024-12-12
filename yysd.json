@@ -306,15 +306,15 @@
         "list": [
             {
                 "name": "v7-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/dev",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": "allinone"
+                "version": ""
             },
             {
                 "name": "v8-64",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v8/allinone",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/dev",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": "allinone"
+                "version": ""
             }
         ]
     }
