@@ -306,13 +306,13 @@
         "list": [
             {
                 "name": "v7-32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp//apk/dev",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp//apk/allinone/v7/allinone",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
                 "version": ""
             },
             {
                 "name": "v8-64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp//apk/dev",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp//apk/allinone/v8/allinone",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
                 "version": ""
             }
