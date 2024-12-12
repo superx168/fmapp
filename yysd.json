@@ -306,15 +306,15 @@
         "list": [
             {
                 "name": "v7-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/allinone/v7/allinone",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/200649a5116b7a4cd2e2ff272f39bb7ed424bc6e/apk/allinone/v7/allinone",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": ""
+                "version": "allinone-pg.20241212-1912"
             },
             {
                 "name": "v8-64",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/allinone/v8/allinone",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/200649a5116b7a4cd2e2ff272f39bb7ed424bc6e/apk/allinone/v8/allinone",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": ""
+                "version": "allinone-pg.20241212-1912"
             }
         ]
     }
