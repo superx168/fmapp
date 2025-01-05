@@ -1,6 +1,11 @@
-3.0.0
-
-* 修复恢复弹窗焦点
-* 修复猫抓嗅探
-* MPV支持播放data uri
-* VLC支持播放data uri
+3.0.1
+ 
+* [共同]
+* 优化猫抓嗅探
+* 修复恢复弹窗焦点BUG
+* MPV支持播放DATA URI
+* VLC支持播放DATA URI
+* 其他BUG修复
+* [EXO]
+* 一些重大优化
+ 
