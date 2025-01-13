@@ -1,8 +1,12 @@
-3.0.2
-
-* 去广告(提前过春节福利)
-* 修复安卓15画中画
-* 优化选集列表
-* 修复刷新按钮
-* 修复猫爪嗅探
+3.0.3
  
+* [LIVE]
+* Fix catchup
+* Catchup support replace
+* [EXO]
+* Default use media3 ua
+* [APP]
+* 修复弹幕搜索
+* Optimize error msg
+* [LEANBACK]
+* Optimize search page
