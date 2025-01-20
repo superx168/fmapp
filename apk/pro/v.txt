@@ -1,4 +1,6 @@
-3.0.4
-* Fix keyword not saved 
-* Fix pip crash 
-* Optimize
+3.0.5
+* [EXO]
+* Fix bug
+* [APP]
+* Add DLNA to home page
+* Added cast walting message
