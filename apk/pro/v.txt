@@ -1,6 +1,4 @@
-3.0.5
-* [EXO]
+3.0.6
+* Reset home button
 * Fix bug
-* [APP]
-* Add DLNA to home page
-* Added cast walting message
+* Optimize
