@@ -306,9 +306,9 @@
         "list": [
             {
                 "name": "Allinone v7-32",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp//apk/allinone/v7/allinone",
+                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/bcf44fe6472569df1b026f418a12d1677d3b0a32/apk/allinone/v7/allinone",
                 "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/feiyang.jpg",
-                "version": ""
+                "version": "pg20241212-2119"
             },
             {
                 "name": "Allinone v8-64",
