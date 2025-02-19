@@ -1,11 +1,11 @@
-刷新影视各版本commit号  时间 >>20250219-09:04:54
-OK-手机正式版:cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514:2.7.5
+刷新影视各版本commit号  时间 >>20250219-10:19:51
+OK-手机正式版:846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc:2.7.6
 OK-手机内测版:1a4962430468d0cc97d5616e0acf5eebfe98f634:0813
-OK-5.1+电视正式版:cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514:2.7.5
+OK-5.1+电视正式版:846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc:2.7.6
 OK-5.1+电视内测版:1a4962430468d0cc97d5616e0acf5eebfe98f634:0813
-OK-海信電視專版正式版:cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514:2.7.5
+OK-海信電視專版正式版:846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc:2.7.6
 OK-海信電視专版内测版:1a4962430468d0cc97d5616e0acf5eebfe98f634:0813
-OK-電視X5離線版正式版:cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514:2.7.5
+OK-電視X5離線版正式版:846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc:2.7.6
 OK-電視X5離線版内测版:1a4962430468d0cc97d5616e0acf5eebfe98f634:0813
 OK-4.1-4.4电视版:93fd99c68e7bddc4b903a2fe12fdbd372630610b:2.5.0
 OK-手机pro版:cf6aff9706bbaaf758e7ac1713a854179605e614:3.1.2-pro
